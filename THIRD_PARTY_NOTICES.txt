@@ -1,0 +1,47 @@
+TABLETOP UTILITIES — CRÉDITOS Y RECURSOS DE TERCEROS
+Versión 1.0.1 — noviembre de 2026
+
+Aplicación y código propio: Guillermo Biemmi.
+Descarga gratuita para probar la aplicación. El proyecto Unity y su código fuente
+no se publican ni se ofrecen bajo una licencia de código abierto.
+Los derechos y licencias de terceros se conservan independientemente.
+
+DADOS 3D
+Collection Dice set for role-playing games — Armor and Rum.
+Recurso adquirido gratuitamente a través de Unity Asset Store.
+La ficha del producto indica Standard Unity Asset Store EULA.
+Se integra en la aplicación; no se redistribuye el paquete de modelos.
+https://assetstore.unity.com/packages/3d/environments/collection-dice-set-for-role-playing-games-202821
+https://unity.com/legal/as-terms
+
+MONEDAS 3D
+Stylized Coin Pack — 15 Coins — PolyKebap, versión 1.0.
+La ficha de Unity indica Standard Unity Asset Store EULA.
+El ReadMe incluido por el proveedor declara adicionalmente CC0 1.0 Universal.
+Se conserva ese aviso original en POLYKEBAP-README.txt.
+https://assetstore.unity.com/packages/3d/props/stylized-coin-pack-15-coins-gold-silver-bronze-wood-340494
+https://creativecommons.org/publicdomain/zero/1.0/
+
+BANDEJA 3D
+Modelo generado por Guillermo Biemmi con Meshy.
+El autor confirmó su generación bajo un plan pago y la conservación de sus derechos.
+Materiales y presentación adaptados dentro de Unity.
+https://help.meshy.ai/en/articles/10137554-what-is-the-ownership-of-the-generated-models
+
+IMÁGENES E ÍCONO
+Fondos e imagen de presentación generados con IA a pedido de Guillermo Biemmi.
+Ícono de dado creado para este proyecto. No utiliza un logotipo de terceros.
+
+MOTOR Y BIBLIOTECAS
+Creado con Unity 6000.5.2f1. Unity y sus componentes conservan sus propias licencias.
+https://unity.com/legal/editor-terms-of-service/software
+Dependencias Android declaradas por la compilación:
+- AndroidX AppCompat 1.6.1
+- AndroidX Core 1.9.0
+- AndroidX ConstraintLayout 2.1.4
+- Android Games Activity 4.4.0
+- Android Games Frame Pacing 2.1.2
+AndroidX/Android Games y sus titulares conservan sus avisos y derechos.
+Se incluye Apache License 2.0 en APACHE-2.0.txt y los avisos del sysroot
+del NDK utilizado para los componentes nativos en ANDROID-NDK-NOTICE.txt.
+Estos avisos no conceden acceso ni una licencia abierta al código de Tabletop.
